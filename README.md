@@ -1,1 +1,1 @@
-The goal of this study was to investigate whether traditional spectral analysis methods combined with machine learning can achieve reliable classification of musical instruments.<img width="2934" height="81" alt="image" src="https://github.com/user-attachments/assets/24dd508f-7a07-4756-a3f2-5a95f9be93e1" />
+The goal of this study was to investigate whether traditional spectral analysis methods combined with machine learning can achieve reliable classification of musical instruments.
